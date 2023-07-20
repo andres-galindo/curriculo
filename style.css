@@ -13,10 +13,13 @@
 }
 
 aside {
+    width: 30%;
+    height: 100vh;
     background: #0f0f0fbd;
     margin: 1rem;
     border-radius: 1rem;
     padding: 2rem;
+    
 }
 
 .contenedor {
